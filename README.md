@@ -11,6 +11,7 @@ This library records the progress and results I have made during my Master's deg
 Report to: [Prof. Chi-Chia Sun (宋啟嘉)](http://sparc.nfu.edu.tw/~ccsun/AboutPI.html)
 | Date       | Project                                                                                |
 |------------|----------------------------------------------------------------------------------------|
+| 2023/08/31 | A controller IP design in Verilog with High-throughput and AXI compliance for mmWave 5G systems |
 | 2023/06/06 | Hands-on PYNQ-ZU Tutorial<br>Available at: https://github.com/DSDL-EE/PYNQ-ZU_Tutorial |
 | 2023/04/20 | Deep Learning-based Segmentationusing ENet on PYNQ                                     |
 | 2023/01/18 | Multi MicroBlazes on ZYNQ MPSoC ZCU104                                                 |
